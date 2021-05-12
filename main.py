@@ -10,6 +10,7 @@ for i in range(5):
     num = int(input("Enter the number you guessed: "))
     if num == RandomNumber:
         print("You won the game!!")
+        break
     elif num > RandomNumber:
         print("Try a smaller number")
     elif num < RandomNumber:

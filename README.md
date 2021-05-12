@@ -1,1 +1,1 @@
-### A very simple plagiarism detector
+### The Guess the Number Game
